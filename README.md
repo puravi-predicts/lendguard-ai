@@ -25,6 +25,10 @@
 
 ---
 
+## 🎬 Live Dashboard Demo
+📺 **[Click here to watch the full LendGuard AI dashboard walkthrough video!](https://github.com/user-attachments/assets/db9ede29-9aff-4190-b0e8-ae099dc33830)**
+
+---
 ## 📌 Overview
 
 **LendGuard AI** is a production-grade machine learning system for predicting home loan default probability. Built on a 7-table relational dataset from the Home Credit Group, it covers the complete ML lifecycle — from raw data ingestion through deployment, monitoring, and regulatory documentation.
