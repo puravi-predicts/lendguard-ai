@@ -1,0 +1,22 @@
+# Data files
+*.csv
+Data/
+
+# Model binaries (large files)
+*.pkl
+*.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# MLflow
+mlruns/
+
+# Env
+.env
+venv/
