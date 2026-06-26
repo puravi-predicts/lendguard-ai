@@ -37,6 +37,15 @@ The pipeline is engineered around the **accuracy paradox**: with a 92:8 class im
 
 ---
 
+## 🛠️ Repository Quick Links
+
+If GitHub takes too long to load the full Jupyter Notebook preview, use these direct links to view the interactive analysis or jump straight into the production script:
+
+* 📓 **[Data Exploration Notebook](./exploration.ipynb):** Step-by-step EDA, feature engineering, and model training. *(If GitHub fails to load the preview, **[click here to view it instantly on Google Colab](https://colab.research.google.com/github/puravi-predicts/lendguard-ai/blob/main/exploration.ipynb)**)*.
+* 🐍 **[Production Pipeline Script](./pipeline.py):** Clean, code-only Python script executing the modular model tuning and training pipeline instantly on GitHub.
+
+---
+
 ## 🏗️ Architecture
 
 ```
